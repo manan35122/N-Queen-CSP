@@ -1,4 +1,4 @@
-# N-Queens Problem Solver
+# N-Queens Problem Solver by Constraint Satisfaction (CSP)
 
 This project implements a solution to the N-Queens problem using a Constraint Satisfaction Problem (CSP) approach. The N-Queens problem involves placing N chess queens on an N×N chessboard so that no two queens threaten each other.
 
