@@ -26,16 +26,6 @@ The goal is to place N queens on a chessboard such that no two queens share the 
 # Output
 The program will print the solution for the N-Queens problem, displaying the board with queens represented by "Q". If no solution exists, it will indicate that as well.
 
-# Example Output
-Solution found:
-. Q . . . . . .
-. . . . Q . . .
-Q . . . . . . .
-. . . . . . Q .
-. . . . . Q . .
-. . Q . . . . .
-. . . . . . . Q
-. . . Q . . . .
 
 ### Instructions to Use This README
 
